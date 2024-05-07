@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574986837120",
+    "project_id": "dog-e-6830c",
+    "storage_bucket": "dog-e-6830c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574986837120:android:9658a2ac535d9a09e81a65",
+        "android_client_info": {
+          "package_name": "com.example.doge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574986837120-f7b0eqlph5nc6t5i77641jlir4bhkpes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doge",
+            "certificate_hash": "68465232e78e43bf871d4d157cd32445692951ed"
+          }
+        },
+        {
+          "client_id": "574986837120-qppdfj0b55keu9lrlqn2ibicben6lmie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8eDoRc8ST8TI133MaY-TK8rsRrInvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574986837120-qppdfj0b55keu9lrlqn2ibicben6lmie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
